@@ -35,3 +35,7 @@ h3 {
     background: #4E87A0;
     color: #ffffff;
 }
+
+#showPassword {
+    text-decoration: underline;
+}
